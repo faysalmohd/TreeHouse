@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Guy Tucker",
+    "title": "Mr",
+    "email": "guy.tucker@example.com",
+    "phone": "06-7661-2660",
+    "img": "https://randomuser.me/api/portraits/men/38.jpg",
+    "position": "Software Developer"
+  },
+  {
+    "name": "Jane Doe",
+    "title": "Ms",
+    "email": "jane.doe@example.com",
+    "phone": "05-6672-3322",
+    "img": "https://randomuser.me/api/portraits/women/42.jpg",
+    "position": "Product Manager"
+  },
+  {
+    "name": "John Smith",
+    "title": "Mr",
+    "email": "john.smith@example.com",
+    "phone": "04-1122-3344",
+    "img": "https://randomuser.me/api/portraits/men/50.jpg",
+    "position": "UX Designer"
+  },
+  {
+    "name": "Alice Johnson",
+    "title": "Ms",
+    "email": "alice.johnson@example.com",
+    "phone": "03-8855-1234",
+    "img": "https://randomuser.me/api/portraits/women/43.jpg",
+    "position": "Marketing Specialist"
+  },
+  {
+    "name": "Bob Miller",
+    "title": "Mr",
+    "email": "bob.miller@example.com",
+    "phone": "02-9988-4321",
+    "img": "https://randomuser.me/api/portraits/men/28.jpg",
+    "position": "Data Analyst"
+  },
+  {
+    "name": "Charlie Brown",
+    "title": "Mr",
+    "email": "charlie.brown@example.com",
+    "phone": "07-5566-7788",
+    "img": "https://randomuser.me/api/portraits/men/35.jpg",
+    "position": "Sales Executive"
+  },
+  {
+    "name": "Daniela Garcia",
+    "title": "Ms",
+    "email": "daniela.garcia@example.com",
+    "phone": "08-4466-2546",
+    "img": "https://randomuser.me/api/portraits/women/21.jpg",
+    "position": "HR Manager"
+  },
+  {
+    "name": "Ethan Williams",
+    "title": "Mr",
+    "email": "ethan.williams@example.com",
+    "phone": "09-7765-5333",
+    "img": "https://randomuser.me/api/portraits/men/15.jpg",
+    "position": "Project Manager"
+  },
+  {
+    "name": "Fiona Davis",
+    "title": "Ms",
+    "email": "fiona.davis@example.com",
+    "phone": "01-2211-3344",
+    "img": "https://randomuser.me/api/portraits/women/56.jpg",
+    "position": "Business Analyst"
+  },
+  {
+    "name": "George Lewis",
+    "title": "Mr",
+    "email": "george.lewis@example.com",
+    "phone": "10-9988-4411",
+    "img": "https://randomuser.me/api/portraits/men/22.jpg",
+    "position": "Web Developer"
+  },
+  {
+    "name": "Hannah Moore",
+    "title": "Ms",
+    "email": "hannah.moore@example.com",
+    "phone": "12-3344-5566",
+    "img": "https://randomuser.me/api/portraits/women/31.jpg",
+    "position": "Operations Manager"
+  },
+  {
+    "name": "Ian Clark",
+    "title": "Mr",
+    "email": "ian.clark@example.com",
+    "phone": "14-6677-8877",
+    "img": "https://randomuser.me/api/portraits/men/51.jpg",
+    "position": "Product Designer"
+  },
+  {
+    "name": "Jessica Adams",
+    "title": "Ms",
+    "email": "jessica.adams@example.com",
+    "phone": "15-7755-2266",
+    "img": "https://randomuser.me/api/portraits/women/65.jpg",
+    "position": "Account Manager"
+  },
+  {
+    "name": "Kevin Mitchell",
+    "title": "Mr",
+    "email": "kevin.mitchell@example.com",
+    "phone": "16-4488-3322",
+    "img": "https://randomuser.me/api/portraits/men/61.jpg",
+    "position": "Systems Engineer"
+  },
+  {
+    "name": "Laura Perez",
+    "title": "Ms",
+    "email": "laura.perez@example.com",
+    "phone": "17-9988-4455",
+    "img": "https://randomuser.me/api/portraits/women/32.jpg",
+    "position": "Marketing Director"
+  },
+  {
+    "name": "Michael Taylor",
+    "title": "Mr",
+    "email": "michael.taylor@example.com",
+    "phone": "18-7744-3322",
+    "img": "https://randomuser.me/api/portraits/men/62.jpg",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "name": "Nina Scott",
+    "title": "Ms",
+    "email": "nina.scott@example.com",
+    "phone": "19-5533-2266",
+    "img": "https://randomuser.me/api/portraits/women/25.jpg",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "name": "Oscar Harris",
+    "title": "Mr",
+    "email": "oscar.harris@example.com",
+    "phone": "20-8844-1234",
+    "img": "https://randomuser.me/api/portraits/men/45.jpg",
+    "position": "Software Engineer"
+  },
+  {
+    "name": "Paul Walker",
+    "title": "Mr",
+    "email": "paul.walker@example.com",
+    "phone": "21-9977-8899",
+    "img": "https://randomuser.me/api/portraits/men/27.jpg",
+    "position": "Network Engineer"
+  },
+  {
+    "name": "Quincy Phillips",
+    "title": "Mr",
+    "email": "quincy.phillips@example.com",
+    "phone": "22-6622-2233",
+    "img": "https://randomuser.me/api/portraits/men/59.jpg",
+    "position": "Business Development Manager"
+  },
+  {
+    "name": "Rachel Johnson",
+    "title": "Ms",
+    "email": "rachel.johnson@example.com",
+    "phone": "23-5511-1122",
+    "img": "https://randomuser.me/api/portraits/women/11.jpg",
+    "position": "Content Writer"
+  },
+  {
+    "name": "Sam Robinson",
+    "title": "Mr",
+    "email": "sam.robinson@example.com",
+    "phone": "24-5544-7744",
+    "img": "https://randomuser.me/api/portraits/men/41.jpg",
+    "position": "Chief Technology Officer"
+  },
+  {
+    "name": "Tina Carter",
+    "title": "Ms",
+    "email": "tina.carter@example.com",
+    "phone": "25-6655-9988",
+    "img": "https://randomuser.me/api/portraits/women/30.jpg",
+    "position": "Data Scientist"
+  },
+  {
+    "name": "Ursula Brown",
+    "title": "Ms",
+    "email": "ursula.brown@example.com",
+    "phone": "26-7766-2233",
+    "img": "https://randomuser.me/api/portraits/women/33.jpg",
+    "position": "Web Designer"
+  },
+  {
+    "name": "Victor Green",
+    "title": "Mr",
+    "email": "victor.green@example.com",
+    "phone": "27-4455-6677",
+    "img": "https://randomuser.me/api/portraits/men/20.jpg",
+    "position": "IT Specialist"
+  },
+  {
+    "name": "Willie Harris",
+    "title": "Mr",
+    "email": "willie.harris@example.com",
+    "phone": "28-3344-5566",
+    "img": "https://randomuser.me/api/portraits/men/18.jpg",
+    "position": "Customer Service Manager"
+  },
+  {
+    "name": "Xander Lee",
+    "title": "Mr",
+    "email": "xander.lee@example.com",
+    "phone": "29-7766-8899",
+    "img": "https://randomuser.me/api/portraits/men/49.jpg",
+    "position": "Operations Analyst"
+  },
+  {
+    "name": "Yvonne Evans",
+    "title": "Ms",
+    "email": "yvonne.evans@example.com",
+    "phone": "30-8877-9966",
+    "img": "https://randomuser.me/api/portraits/women/57.jpg",
+    "position": "Marketing Manager"
+  }
+]

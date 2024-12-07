@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Central Park, New York",
+    "latitude": 40.785091,
+    "longitude": -73.968285
+  },
+  {
+    "name": "Statue of Liberty, New York",
+    "latitude": 40.689247,
+    "longitude": -74.044502
+  },
+  {
+    "name": "Golden Gate Bridge, San Francisco",
+    "latitude": 37.819929,
+    "longitude": -122.478255
+  },
+  {
+    "name": "Mount Rushmore, South Dakota",
+    "latitude": 43.879102,
+    "longitude": -103.459067
+  },
+  {
+    "name": "Grand Canyon, Arizona",
+    "latitude": 36.106965,
+    "longitude": -112.112997
+  },
+  {
+    "name": "Yellowstone National Park, Wyoming",
+    "latitude": 44.428000,
+    "longitude": -110.588455
+  },
+  {
+    "name": "Times Square, New York",
+    "latitude": 40.758896,
+    "longitude": -73.985130
+  },
+  {
+    "name": "Hollywood Sign, Los Angeles",
+    "latitude": 34.134115,
+    "longitude": -118.321548
+  },
+  {
+    "name": "Walt Disney World, Florida",
+    "latitude": 28.385233,
+    "longitude": -81.563874
+  },
+  {
+    "name": "Space Needle, Seattle",
+    "latitude": 47.620506,
+    "longitude": -122.349277
+  },
+  {
+    "name": "Alcatraz Island, California",
+    "latitude": 37.826977,
+    "longitude": -122.422956
+  },
+  {
+    "name": "Niagara Falls, New York",
+    "latitude": 43.096214,
+    "longitude": -79.037739
+  },
+  {
+    "name": "Brooklyn Bridge, New York",
+    "latitude": 40.706086,
+    "longitude": -73.996864
+  },
+  {
+    "name": "Las Vegas Strip, Nevada",
+    "latitude": 36.114647,
+    "longitude": -115.172813
+  },
+  {
+    "name": "The White House, Washington D.C.",
+    "latitude": 38.897676,
+    "longitude": -77.036530
+  }
+]
